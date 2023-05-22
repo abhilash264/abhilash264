@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on:- Spring MySQL Redis Kafka Spring Security<br>                                                       oAuth2<br>👯 I’m looking to collaborate on:- Android DevOps<br>🌱 I’m currently learning:- Salesforce<br>
+🔭 I’m currently working on:- Spring MySQL Redis Kafka Spring Security<br>oAuth2<br>👯 I’m looking to collaborate on:- Android DevOps<br>🌱 I’m currently learning:- Salesforce<br>
 
 
 ## 🌐 Socials:
